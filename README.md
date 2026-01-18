@@ -1,21 +1,83 @@
-# 💫 About Me:
-🔭 I’m currently working on React Skills<br>💬 Ask me about React<br>👯 I’m looking to collaborate on Web App Projects<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:6366F1&height=180&section=header&text=Nabaraj%20Magar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nabaraj-magar-5a082b244/) 
+### 🎨 Creative Frontend Developer | React Storyteller
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nabaraj82&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nabaraj82&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabaraj82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=38B2AC&center=true&vCenter=true&width=600&lines=I+turn+ideas+into+interfaces;React+%2B+Creativity+%2B+Code;Designing+Smooth+Web+Experiences;Learning+Every+Single+Day" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nabaraj82&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌈 Who Am I?
+
+> I’m a **creative frontend developer** who loves blending **design + logic** to craft meaningful web experiences.
+> I believe great UI isn’t just seen — it’s *felt*.
+
+* ✨ Focused on **React, Next.js & modern UI patterns**
+* 🎨 Building clean interfaces with **shadcn/ui + Tailwind**
+* 🎯 Passionate about **clean code & smooth UX**
+* 🤝 Open to **creative web collaborations**
+* 🚀 Always experimenting with new ideas
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nabaraj-magar-03491a272" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 Creative Toolbox
+
+### ⚛️ Frontend Magic
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,reactnative,js,html,css" />
+</p>
+
+### 🎨 Design & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,figma" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+### 🔧 Backend & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,django,php,java,cpp,npm,git,github" />
+</p>
+
+---
+
+## 🧠 Developer Thought
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 👁️ Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=nabaraj82&label=Profile%20Views)
+
+
+---
+
+<div align="center">
+
+✨ *Code. Create. Inspire.* ✨
+⭐ If you like my work, feel free to follow or collaborate!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:38B2AC&height=120&section=footer" />
+
+</div>
